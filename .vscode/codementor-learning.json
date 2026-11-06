@@ -1,0 +1,37 @@
+{
+  "CC-004": {
+    "occurrences": 151,
+    "confidence": 1,
+    "mastered_explicitly": false,
+    "first_seen": "2026-11-06T12:45:02.116Z",
+    "last_seen": "2026-11-06T17:03:51.928Z"
+  },
+  "CSS-002": {
+    "occurrences": 404,
+    "confidence": 1,
+    "mastered_explicitly": false,
+    "first_seen": "2026-11-06T16:07:28.178Z",
+    "last_seen": "2026-11-06T16:58:44.926Z"
+  },
+  "SEC-004": {
+    "occurrences": 32,
+    "confidence": 1,
+    "mastered_explicitly": false,
+    "first_seen": "2026-11-06T16:07:38.866Z",
+    "last_seen": "2026-11-06T16:56:25.263Z"
+  },
+  "ASYNC-001": {
+    "occurrences": 3,
+    "confidence": 1,
+    "mastered_explicitly": false,
+    "first_seen": "2026-11-06T16:12:15.067Z",
+    "last_seen": "2026-11-06T16:12:15.067Z"
+  },
+  "JS-001": {
+    "occurrences": 3,
+    "confidence": 1,
+    "mastered_explicitly": false,
+    "first_seen": "2026-11-06T16:12:15.067Z",
+    "last_seen": "2026-11-06T16:12:15.068Z"
+  }
+}
